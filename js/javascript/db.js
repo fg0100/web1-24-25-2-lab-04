@@ -1,4 +1,4 @@
-export const userlist=[
+export const userList = [
     {
         id: 1,
         name: 'Mici',
@@ -14,5 +14,4 @@ export const userlist=[
         name: 'Cili',
         age: 44,
     },
-
 ];
